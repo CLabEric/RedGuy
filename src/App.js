@@ -52,17 +52,18 @@ function App() {
 
     setContract(contract);
   }
-  // ethers.utils.parseEther('0.05')
+
   const mint = async () => {
-    await contract
-          .safeMint(address)
-          .send({ value: ethers.utils.parseEther('0.05')})
-          .on("receipt", (r) => console.log(r));
+    const options = {value: ethers.utils.parseEther("0.5")}
+    const receipt = await contract.safeMint(address, options);
+    console.log(receipt);
   }
 
   return (
     <div className="App">
-      <div>
+      <div className="description">Welcome to the Red Guy's world.</div>
+
+      <div className="wallet">
         <button 
           type="button"
           onClick={ connectWallet }
@@ -71,8 +72,8 @@ function App() {
         </button>
         <div>{ message }</div>
       </div>
-      <div>Welcome to the Red Guy's world.</div>
-      <div>
+      
+      <div className="mint">
         <button 
           type="button"
           onClick={ mint }
