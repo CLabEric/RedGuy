@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/RedGuy/static/css/main.73941422.css",
-    "main.js": "/RedGuy/static/js/main.52e40544.js",
+    "main.css": "/RedGuy/static/css/main.c15b0e5f.css",
+    "main.js": "/RedGuy/static/js/main.0de6cc98.js",
     "static/js/787.cda612ba.chunk.js": "/RedGuy/static/js/787.cda612ba.chunk.js",
+    "static/media/pig.jpg": "/RedGuy/static/media/pig.2c36ef038b5557dec494.jpg",
+    "static/media/green.jpeg": "/RedGuy/static/media/green.13bc3b44868d53c743b7.jpeg",
+    "static/media/cows.jpg": "/RedGuy/static/media/cows.c7dd08e6ac0750fc874e.jpg",
+    "static/media/peacock.jpg": "/RedGuy/static/media/peacock.1ec9cf33bfc7e231e717.jpg",
+    "static/media/logo.svg": "/RedGuy/static/media/logo.6ce24c58023cc2f8fd88.svg",
     "index.html": "/RedGuy/index.html",
-    "main.73941422.css.map": "/RedGuy/static/css/main.73941422.css.map",
-    "main.52e40544.js.map": "/RedGuy/static/js/main.52e40544.js.map",
+    "main.c15b0e5f.css.map": "/RedGuy/static/css/main.c15b0e5f.css.map",
+    "main.0de6cc98.js.map": "/RedGuy/static/js/main.0de6cc98.js.map",
     "787.cda612ba.chunk.js.map": "/RedGuy/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.73941422.css",
-    "static/js/main.52e40544.js"
+    "static/css/main.c15b0e5f.css",
+    "static/js/main.0de6cc98.js"
   ]
 }
