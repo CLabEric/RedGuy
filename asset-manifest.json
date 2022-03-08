@@ -1,20 +1,35 @@
 {
   "files": {
-    "main.css": "/RedGuy/static/css/main.c15b0e5f.css",
-    "main.js": "/RedGuy/static/js/main.0de6cc98.js",
+    "main.css": "/RedGuy/static/css/main.cbdcf84b.css",
+    "main.js": "/RedGuy/static/js/main.b16c2041.js",
     "static/js/787.cda612ba.chunk.js": "/RedGuy/static/js/787.cda612ba.chunk.js",
-    "static/media/pig.jpg": "/RedGuy/static/media/pig.2c36ef038b5557dec494.jpg",
-    "static/media/green.jpeg": "/RedGuy/static/media/green.13bc3b44868d53c743b7.jpeg",
-    "static/media/cows.jpg": "/RedGuy/static/media/cows.c7dd08e6ac0750fc874e.jpg",
-    "static/media/peacock.jpg": "/RedGuy/static/media/peacock.1ec9cf33bfc7e231e717.jpg",
+    "static/media/seventeen.jpg": "/RedGuy/static/media/seventeen.13bc3b44868d53c743b7.jpg",
+    "static/media/four.jpg": "/RedGuy/static/media/four.2c36ef038b5557dec494.jpg",
+    "static/media/nine.jpg": "/RedGuy/static/media/nine.13bc3b44868d53c743b7.jpg",
+    "static/media/two.jpg": "/RedGuy/static/media/two.13bc3b44868d53c743b7.jpg",
+    "static/media/eleven.jpg": "/RedGuy/static/media/eleven.2c36ef038b5557dec494.jpg",
+    "static/media/thirteen.jpg": "/RedGuy/static/media/thirteen.c7dd08e6ac0750fc874e.jpg",
+    "static/media/seven.jpg": "/RedGuy/static/media/seven.1ec9cf33bfc7e231e717.jpg",
+    "static/media/three.jpg": "/RedGuy/static/media/three.1ec9cf33bfc7e231e717.jpg",
+    "static/media/eight.jpg": "/RedGuy/static/media/eight.13bc3b44868d53c743b7.jpg",
+    "static/media/six.jpg": "/RedGuy/static/media/six.c7dd08e6ac0750fc874e.jpg",
+    "static/media/five.jpg": "/RedGuy/static/media/five.2c36ef038b5557dec494.jpg",
+    "static/media/fourteen.jpg": "/RedGuy/static/media/fourteen.1ec9cf33bfc7e231e717.jpg",
+    "static/media/one.jpg": "/RedGuy/static/media/one.c7dd08e6ac0750fc874e.jpg",
+    "static/media/nineteen.jpg": "/RedGuy/static/media/nineteen.2c36ef038b5557dec494.jpg",
+    "static/media/fifteen.jpg": "/RedGuy/static/media/fifteen.c7dd08e6ac0750fc874e.jpg",
+    "static/media/eighteen.jpg": "/RedGuy/static/media/eighteen.13bc3b44868d53c743b7.jpg",
+    "static/media/twelve.jpg": "/RedGuy/static/media/twelve.2c36ef038b5557dec494.jpg",
+    "static/media/ten.jpg": "/RedGuy/static/media/ten.13bc3b44868d53c743b7.jpg",
+    "static/media/sixteen.jpg": "/RedGuy/static/media/sixteen.1ec9cf33bfc7e231e717.jpg",
     "static/media/logo.svg": "/RedGuy/static/media/logo.6ce24c58023cc2f8fd88.svg",
     "index.html": "/RedGuy/index.html",
-    "main.c15b0e5f.css.map": "/RedGuy/static/css/main.c15b0e5f.css.map",
-    "main.0de6cc98.js.map": "/RedGuy/static/js/main.0de6cc98.js.map",
+    "main.cbdcf84b.css.map": "/RedGuy/static/css/main.cbdcf84b.css.map",
+    "main.b16c2041.js.map": "/RedGuy/static/js/main.b16c2041.js.map",
     "787.cda612ba.chunk.js.map": "/RedGuy/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c15b0e5f.css",
-    "static/js/main.0de6cc98.js"
+    "static/css/main.cbdcf84b.css",
+    "static/js/main.b16c2041.js"
   ]
 }
